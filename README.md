@@ -1,6 +1,8 @@
 # My_Portfolio
 
 <br> Author: Deviprasad Shetty
+<br> [LinkedIn Profile](https://www.linkedin.com/in/deviprasad-shetty-4bba49313)
+<br> 
 <br> 
 
 # My Intro
