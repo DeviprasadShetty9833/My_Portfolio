@@ -18,5 +18,10 @@
 <br> 
 
 # My Skills
-
+<br> ⊡ Python 
+<br> ⊡⁠ Data Structures in C
+<br> ⊡ C
+⁠<br> ⊡⁠ C++
+<br> ⊡⁠ HTML
+<br> ⊡⁠ VB 6.0
 <br> 
