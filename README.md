@@ -26,7 +26,16 @@
 
 # 💻 Tech Stack:
 
-**● Programming Languages**
+
+name: Bug report
+about: Create a report to help us improve
+title: "[BUG]"
+labels: ''
+assignees: ''
+
+---
+
+**● Programming Languages**:
 <br> ⊡ Python 
 <br> ⊡⁠ Data Structures in C
 <br> ⊡ C 
@@ -34,12 +43,14 @@
 <br> ⊡⁠ VB 6.0
 <br> 
 
-**● Web Development** 
+**● Web Development**:
 
 ✯ Frontend:
 <br> ⊡⁠ HTML
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programmer;C%2B%2B+Enthusiast;Python+Developer;DSA+Ninja+in+C;Problem+Solver;Code.+Debug.+Repeat.)
 <br> 
+
+---
 
 # 📊 GitHub Stats:
 
