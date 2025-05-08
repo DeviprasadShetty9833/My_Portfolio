@@ -11,6 +11,7 @@ se# My_Portfolio
 <br> 
 <br> ⊡⁠ [LinkedIn Profile](https://www.linkedin.com/in/deviprasad-shetty-4bba49313)
 <br> ⊡⁠ [Website]()
+<br> ![Profile Views](https://komarev.com/ghpvc/?username=Deviprasadbshetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
 # 👨‍💻 Projects
@@ -43,6 +44,5 @@ se# My_Portfolio
 <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 <br> <!-- ![Streak Stats](https://streak-stats.demolab.com/?user=Deviprasadbshetty9833&theme=radical)
 <br> -->
-<br> ![Profile Views](https://komarev.com/ghpvc/?username=Deviprasadbshetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
