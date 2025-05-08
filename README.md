@@ -1,4 +1,4 @@
-l# My_Portfolio
+# My_Portfolio
 
 <br> Author: Deviprasad Shetty
 <br> 
@@ -28,9 +28,9 @@ l# My_Portfolio
 
 ## 🛠️ Skills
 
-|-----------------------|------------------------------|
-| Programming Languages |        Web Development       |
-|                       |------------------------------|
+
+| Programming Languages | C++ | VB 6.0 | C | Data Structures in C | Python |
+| Web Development       |--------------------------------------------------|
 |                       | Frontend | Backend | Database|
 |-----------------------|----------|---------|---------|
 | C++                   | HTML     |         |         |
