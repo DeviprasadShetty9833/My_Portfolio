@@ -28,10 +28,10 @@ l# My_Portfolio
 
 ## 🛠️ Skills
 
-| Programming Languages | Tools & Platforms | Concepts         |
-|-------------|-------------------|------------------|
-| C, C++, Python | Git, GitHub, Vercel | DSA in C       |
-| HTML, CSS (if applicable) | Canva, Figma        | OOP, Problem Solving |
+| Programming Languages | Web Development |
+|-----------------------|-----------------|
+| C, C++, Python, VB 6.0| HTML            | 
+| Data Structures in C  |                 |
 
 
 **● Programming Languages**:
