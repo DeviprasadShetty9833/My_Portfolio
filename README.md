@@ -26,15 +26,13 @@
 
 # 💻 Tech Stack:
 
----
+## 🛠️ Skills
 
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
-labels: ''
-assignees: ''
+| Programming Languages | Tools & Platforms | Concepts         |
+|-------------|-------------------|------------------|
+| C, C++, Python | Git, GitHub, Vercel | DSA in C       |
+| HTML, CSS (if applicable) | Canva, Figma        | OOP, Problem Solving |
 
----
 
 **● Programming Languages**:
 <br> ⊡ Python 
