@@ -15,7 +15,7 @@
 
 # My Projects
 <br> ⊡⁠ [Library Management System](https://github.com/DeviprasadShetty9833/Library_Management_System-)
-<br> ⊡⁠ [Contact Management](https://github.com/DeviprasadShetty9833/Contact-Management-System-)
+<br> ⊡⁠ [Contact Management System](https://github.com/DeviprasadShetty9833/Contact-Management-System-)
 <br> ⊡⁠ [Cube.c](https://github.com/DeviprasadShetty9833/Cube.c)
 <br> 
 
