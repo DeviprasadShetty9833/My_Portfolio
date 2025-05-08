@@ -28,8 +28,8 @@ l# My_Portfolio
 
 ## 🛠️ Skills
 
-| Programming Languages |   Web Development            |
-|                       |------------------------------|
+|                       |        Web Development       |
+|  Programming Language |------------------------------|
 |                       | Frontend | Backend | Database|
 |-----------------------|----------|---------|---------|
 | C++                   | HTML     |         |         |
