@@ -14,9 +14,9 @@
 <br> 
 
 # My Projects
-<br> ⊡⁠ [Library Management System]()
-<br> ⊡⁠ [Contact Management]()
-<br> ⊡⁠ [Cube.c]()
+<br> ⊡⁠ [Library Management System](https://github.com/DeviprasadShetty9833/Library_Management_System-)
+<br> ⊡⁠ [Contact Management](https://github.com/DeviprasadShetty9833/Contact-Management-System-)
+<br> ⊡⁠ [Cube.c](https://github.com/DeviprasadShetty9833/Cube.c)
 <br> 
 
 # My Skills
