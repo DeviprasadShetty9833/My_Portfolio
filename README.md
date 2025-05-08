@@ -22,7 +22,7 @@
 
 # Tech Stack
 
-## Programming Languages
+● Programming Languages
 <br> ⊡ Python 
 <br> ⊡⁠ Data Structures in C
 <br> ⊡ C 
@@ -30,8 +30,8 @@
 <br> ⊡⁠ VB 6.0
 <br> 
 
-## Web Development 
+● Web Development 
 
-### Frontend:
+✯ Frontend:
 <br> ⊡⁠ HTML
 <br> 
