@@ -12,3 +12,7 @@
 # My Projects
 
 <br> 
+
+# My Skills
+
+<br> 
