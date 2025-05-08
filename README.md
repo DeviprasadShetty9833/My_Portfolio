@@ -26,9 +26,6 @@
 
 # 💻 Tech Stack:
 
-## 🛠️ Skills
-
-
 | Programming Languages | VB 6.0    | C++    | C | Data Structures in C | Python |
 |-----------------------|-----------|--------|---|----------------------|--------|
 | Web Development       | Frontend: | HTML   |   |                      |        |
