@@ -18,6 +18,7 @@
 <br> ⊡⁠ [Golden Fields Restaurant]()
 <br> ⊡⁠ [Library Management System](https://github.com/DeviprasadShetty9833/Library_Management_System-)
 <br> ⊡⁠ [Contact Management System](https://github.com/DeviprasadShetty9833/Contact-Management-System-)
+<br> ⊡⁠ [Cube.py](https://github.com/DeviprasadShetty9833/Cube.py)
 <br> ⊡⁠ [Cube.c](https://github.com/DeviprasadShetty9833/Cube.c)
 <br> 
 
@@ -44,5 +45,4 @@
 <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 <br> <!-- ![Streak Stats](https://streak-stats.demolab.com/?user=Deviprasadbshetty9833&theme=radical)
 <br> -->
-<br> 
 
