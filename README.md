@@ -22,7 +22,7 @@
 
 # Tech Stack
 
-● Programming Languages
+<b>●</b> Programming Languages
 <br> ⊡ Python 
 <br> ⊡⁠ Data Structures in C
 <br> ⊡ C 
