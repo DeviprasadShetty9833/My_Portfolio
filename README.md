@@ -10,7 +10,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 <br> ⊡⁠ [LinkedIn Profile](https://www.linkedin.com/in/deviprasad-shetty-4bba49313)
-<br> ⊡⁠ [Portfolio]()
+<br> ⊡⁠ [Website]()
 <br> 
 
 # My Projects
