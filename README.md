@@ -10,7 +10,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 <br> ⊡⁠ [LinkedIn Profile](https://www.linkedin.com/in/deviprasad-shetty-4bba49313)
-<br> ⊡⁠ [Website]()
+<br> ⊡⁠ [Website]() <br> 
 <br> ![Profile Views](https://komarev.com/ghpvc/?username=Deviprasadbshetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
