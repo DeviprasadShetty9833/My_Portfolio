@@ -29,11 +29,11 @@
 ## 🛠️ Skills
 
 
-| Programming Languages | C++       | VB 6.0 | C | Data Structures in C | Python |
+| Programming Languages | VB 6.0    | C++    | C | Data Structures in C | Python |
 |-----------------------|-----------|--------|---|----------------------|--------|
 | Web Development       | Frontend: | HTML   |   |                      |        |
-|                       |           |        |   |                      |        |
-
+|                       | Backend:  |        |   |                      |        |
+|                       | Database: |        |   |                      |        |
 
 **● Programming Languages**:
 <br> ⊡ Python 
