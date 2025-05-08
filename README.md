@@ -38,5 +38,5 @@ se# My_Portfolio
 
 **● GitHub Stats**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
