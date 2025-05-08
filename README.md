@@ -23,7 +23,7 @@
 # My Skills
 <br> ⊡ Python 
 <br> ⊡⁠ Data Structures in C
-<br> ⊡ C
+<br> ⊡ C ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ⁠<br> ⊡⁠ C++
 <br> ⊡⁠ HTML
 <br> ⊡⁠ VB 6.0
