@@ -8,3 +8,7 @@
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
+
+# My Projects
+
+<br> 
