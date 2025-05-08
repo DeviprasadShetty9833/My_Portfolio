@@ -43,6 +43,6 @@ se# My_Portfolio
 <br> <!-- ![Streak Stats](https://streak-stats.demolab.com/?user=Deviprasadbshetty9833&theme=radical)
 <br> -->
 <br> ![Profile Views](https://komarev.com/ghpvc/?username=Deviprasadbshetty9833&label=Profile%20views&color=0e75b6&style=flat)
-<br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-stack+Developer;C%2FC%2B%2B+Enthusiast;AI+Explorer;Lifelong+Learner)
+<br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programmer;C%2B%2B+Enthusiast;Python+Developer;DSA+Ninja+in+C;Problem+Solver;Code.+Debug.+Repeat.)
 <br> 
 
