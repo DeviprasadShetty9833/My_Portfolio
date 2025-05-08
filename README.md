@@ -1,6 +1,6 @@
 # My_Portfolio
 
-<br> Author: Deviprasad Shetty
+<br> <u> Author </u>: Deviprasad Shetty
 <br> 
 
 
