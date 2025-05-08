@@ -28,10 +28,16 @@ l# My_Portfolio
 
 ## 🛠️ Skills
 
-| Programming Languages | Web Development |
-|-----------------------|-----------------|
-| C, C++, Python, VB 6.0| HTML            | 
-| Data Structures in C  |                 |
+| Programming Languages |   Web Development            |
+|                       |------------------------------|
+|                       | Frontend | Backend | Database|
+|-----------------------|----------|---------|---------|
+| C++                   | HTML     |         |         |
+| VB 6.0                |          |         |         |
+| C                     |          |         |         |  
+| Data Structures in C  |          |         |         |
+| Python                |          |         |         |
+|                       |          |         |         |
 
 
 **● Programming Languages**:
