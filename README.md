@@ -29,7 +29,6 @@
 # 💻 Tech Stack:
 
 | Programming Languages | VB 6.0    | C++    | C | Data Structures in C | Python |
-|                       | Hello     |        |   |                      |        |
 |-----------------------|-----------|--------|---|----------------------|--------|
 | Web Development       | Frontend: | HTML   |   |                      |        |
 |                       | Backend:  |        |   |                      |        |
