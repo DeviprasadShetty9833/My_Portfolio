@@ -29,15 +29,9 @@
 ## 🛠️ Skills
 
 
-| Programming Languages | C++ | VB 6.0 | C | Data Structures in C | Python |
-| Web Development       |--------------------------------------------------|
-|                       | Frontend | Backend | Database|
-|-----------------------|----------|---------|---------|
-| C++                   | HTML     |         |         |
-| VB 6.0                |          |         |         |
-| C                     |          |         |         |  
-| Data Structures in C  |          |         |         |
-| Python                |          |         |         |
+| Programming Languages |  C++ | VB 6.0 | C | Data Structures in C | Python |
+|-----------------------|------|--------|---|
+| Web Development       |  
 |                       |          |         |         |
 
 
