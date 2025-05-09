@@ -19,6 +19,8 @@
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
 |---|---|---|
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Deviprasad%20Shetty-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-USERNAME/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=Deviprasadbshetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
