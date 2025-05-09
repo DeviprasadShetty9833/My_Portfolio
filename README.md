@@ -1,6 +1,6 @@
 # My_Portfolio
 
-<br> Author:    ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000) 
+<br> Author: ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000) 
 
 <br> ![image alt](Dev.png)
 <br> 
@@ -44,13 +44,13 @@
 
 **● Web Development**
 
-| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   |   |                      |        |
+| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   |   |       |   |
 |---|---|---|---|---|
 
-| Backend:  |        |   |                      |        |
+| Backend:  |   |   |   |   |
 |---|---|---|---|---|
 
-| Database: |        |   |                      |        |
+| Database: |   |   |   |   |
 |---|---|---|---|---|
 
 
