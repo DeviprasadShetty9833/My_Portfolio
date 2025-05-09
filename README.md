@@ -30,7 +30,7 @@
 
 **● Programming Languages**
 
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   |  Data Structures in C   | C | C++ | VB 6.0 |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)   |  ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-4B8BBE?style=for-the-badge&logo=c&logoColor=white)   | C | C++ | VB 6.0 |
 |-----------|-------------------------|---|-----|--------|
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
