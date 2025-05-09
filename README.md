@@ -1,6 +1,6 @@
 # My_Portfolio
 
-<br> Author: [![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logo=d&logoColor=white)](https://dlang.org)
+<br> Author: [![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logo=d&logoColor=white)](https://yourwebsite.com/)
 
 <br> ![image alt](Dev.png)
 <br> 
