@@ -54,6 +54,7 @@
 | Database: |   |   |   |   |
 |---|---|---|---|---|
 
+<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programmer;C%2B%2B+Enthusiast;Python+Developer;DSA+Ninja+in+C;Problem+Solver;Code.+Debug.+Repeat.)
 <br> 
@@ -62,6 +63,6 @@
 # 📊 GitHub Stats:
 
 <br> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true&theme=tokyonight)
-<br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
+
 <br> [![GitHub Streak](https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <br> 
