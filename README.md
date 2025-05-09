@@ -35,6 +35,8 @@
 | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
 |  |
 
+[![Golden_Fields_Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant)
+
 [![Golden_Fields_Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-navy)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant)
 
 [![Cube.py](https://img.shields.io/badge/Cube.py-2ECC71?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py)
