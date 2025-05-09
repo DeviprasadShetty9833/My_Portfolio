@@ -1,23 +1,10 @@
----
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
-labels: ''
-assignees: ''
+# Bug Report Table
 
----
+This table tracks bugs reported for the project. Please update it as bugs are reported and resolved.
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+| **Bug Title** | **Description** | **Screenshot** | **Steps to Reproduce** | **Expected Behavior** | **Proposed Solution** | **Reported By** | **Status** | **Date Reported** |
+|---------------|-----------------|----------------|-------------------------|------------------------|------------------------|------------------|-------------|--------------------|
+| Login Failure | Login fails with correct credentials | ![Screenshot](https://via.placeholder.com/150) | 1. Go to login page<br>2. Enter valid creds<br>3. Click login | User should be redirected to dashboard | Investigate backend token logic | @john-doe | Open | 2025-05-09 |
+| Cart Bug | Items disappear from cart after refresh | ![Screenshot](https://via.placeholder.com/150) | 1. Add item to cart<br>2. Refresh page | Items should persist in cart | Check local storage sync | @jane-dev | In Progress | 2025-05-08 |
 
-**To Reproduce**
-Steps to reproduce the behavior.
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Additional context**
-Add any other context about the problem here.
+> **Note**: To add a new bug, copy an existing row and modify the values. Make sure to update the screenshot link and status.
