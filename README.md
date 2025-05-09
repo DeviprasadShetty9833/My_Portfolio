@@ -2,8 +2,6 @@
 
 <br> Author:
 
-# ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000)
-
 ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000) 
 <br> 
 
