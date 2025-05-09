@@ -35,7 +35,7 @@
 | [Cube.c](https://github.com/DeviprasadShetty9833/Cube.c) |
 |  |
 
-[![C Project](https://img.shields.io/badge/C_Project-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/yourusername/your-c-project)
+[![Cube.c](https://img.shields.io/badge/C_Project-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/yourusername/your-c-project)
 
 
 ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white)
