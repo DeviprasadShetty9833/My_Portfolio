@@ -2,7 +2,7 @@
 
 <br> Author: <h1 style="color:white; background-color:black; padding:10px; display:inline-block;">Deviprasad Shetty</h1>
 
- ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000)
+<h1> ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000) </h1>
 <br> 
 
 
