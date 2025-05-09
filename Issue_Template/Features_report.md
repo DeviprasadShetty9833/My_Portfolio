@@ -1,6 +1,6 @@
 # Features Table
 
-This table lists all the key features of the project, their status, and related details.
+This table lists all the key features of the project, their status, and related details. Below is an example.
 
 | **Feature** | **Description** | **Implemented By** | **Status** | **Priority** | **Date Added** | **Notes** |
 |-------------|------------------|---------------------|------------|---------------|----------------|-----------|
