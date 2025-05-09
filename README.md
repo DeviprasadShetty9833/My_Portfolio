@@ -2,6 +2,8 @@
 
 <br> Author: Deviprasad Shetty 
 
+![image alt](Dev.png)
+
 <img src="https://your-custom-svg-url.svg" alt="Deviprasad Shetty" width="400"/>
 
 ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000) 
