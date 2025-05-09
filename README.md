@@ -30,7 +30,7 @@
 
 **● Programming Languages**
 
-|  https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white   |  Data Structures in C   | C | C++ | VB 6.0 |
+|  Python   |  Data Structures in C   | C | C++ | VB 6.0 |
 |-----------|-------------------------|---|-----|--------|
 
 **● Web Development**
