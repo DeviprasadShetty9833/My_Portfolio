@@ -16,7 +16,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313)
 
-[![Website](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/)
+[![Website](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/)
 
 <br> ⊡⁠ [LinkedIn Profile](https://www.linkedin.com/in/deviprasad-shetty-4bba49313)
 <br> ⊡⁠ [Website]() <br> 
