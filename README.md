@@ -63,10 +63,5 @@
 
 <br> ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true&theme=tokyonight)
 <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
-<br> <!-- ![Streak Stats](https://streak-stats.demolab.com/?user=Deviprasadbshetty9833&theme=radical)
-<br> -->
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
+<br> [![GitHub Streak](https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<br> 
