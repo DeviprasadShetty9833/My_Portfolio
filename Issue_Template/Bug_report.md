@@ -1,6 +1,6 @@
 # Bug Report Table
 
-This table tracks bugs reported for the project. Please update it as bugs are reported and resolved. Below 2 examples are provided in the table. Report any bug if found.
+This table tracks bugs reported for the project. Please update it as bugs are reported and resolved. Below 2 examples are provided in the table.
 
 | **Bug Title** | **Description** | **Screenshot** | **Steps to Reproduce** | **Expected Behavior** | **Proposed Solution** | **Reported By** | **Status** | **Date Reported** |
 |---------------|-----------------|----------------|-------------------------|------------------------|------------------------|------------------|-------------|--------------------|
