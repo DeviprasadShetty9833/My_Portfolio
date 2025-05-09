@@ -32,7 +32,7 @@
 | [Library Management System](https://github.com/DeviprasadShetty9833/Library_Management_System-) |
 | [Contact Management System](https://github.com/DeviprasadShetty9833/Contact-Management-System-) |
 | [Cube.py](https://github.com/DeviprasadShetty9833/Cube.py) |
-| [Cube.c](https://github.com/DeviprasadShetty9833/Cube.c) |
+| [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
 |  |
 
 [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c)
