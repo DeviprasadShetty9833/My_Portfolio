@@ -27,7 +27,7 @@
 
 |   |
 |---|
-| [![The_Conquerer](https://img.shields.io/badge/The_Conquerer-2ECC71?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
+| [![The_Conquerer](https://img.shields.io/badge/The_Conquerer-2ECC71?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer) |
 | [Golden Fields Restaurant]() |
 | [Library Management System](https://github.com/DeviprasadShetty9833/Library_Management_System) |
 | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
