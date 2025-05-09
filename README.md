@@ -30,8 +30,8 @@
 
 **● Programming Languages**
 
-| VB 6.0    | C++    | C | Data Structures in C | Python |
-|-----------|--------|---|----------------------|--------|
+|  Python   |  Data Structures in C   | C | C++ | VB 6.0 |
+|-----------|-------------------------|---|-----|--------|
 
 **● Web Development**
 
