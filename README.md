@@ -2,7 +2,7 @@
 
 <br> Author: ![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logoColor=white&labelColor=000000) 
 
-[![D Language](https://img.shields.io/badge/Code-D-red?style=for-the-badge&logo=d&logoColor=white)](https://dlang.org)
+[![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logo=d&logoColor=white)](https://dlang.org)
 
 <br> ![image alt](Dev.png)
 <br> 
