@@ -69,6 +69,6 @@
 
 <br> ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=github-compact)
 
-<br> ![Contribution Snake](https://github.com/DeviprasadShetty9833/DeviprasadShetty9833/blob/output/github-contribution-grid-snake.svg)
+<br> 
 
 <br> 
