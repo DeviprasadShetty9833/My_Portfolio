@@ -68,7 +68,7 @@
 
 <br> ### My GitHub Activity Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?DeviprasadShetty9833=your-DeviprasadShetty9833&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?DeviprasadShetty9833=DeviprasadShetty9833&theme=github-compact)
 
 
 
