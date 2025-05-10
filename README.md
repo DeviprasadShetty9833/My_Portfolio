@@ -66,7 +66,7 @@
 
 <br> [![GitHub Streak](https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<br> ![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
+<br> ![Deviprasad Shetty's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true&theme=default)
 
 
 
