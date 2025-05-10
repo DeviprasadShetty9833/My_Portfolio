@@ -8,7 +8,7 @@ This table lists all the key features of the project to be added, their status, 
 | Cart System | Add/remove items from cart | @alex99 | Pending | Medium | 2025-05-07 | Linked with menu system |
 | Customer Feedback | Allow users to rate food & service | @ui-artist | In Progress | Low | 2025-05-07 | UI mockup ready |
 |  |
-| Feature | Description | @username | Status | Priority | Date | Notes |
+| 1. Feature | Description | @username | Status | Priority | Date | Notes |
 
 > **Legend**:  
 > - **Status**: `Planned`, `Pending`, `In Progress`, `Completed`  
