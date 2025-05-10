@@ -66,8 +66,6 @@
 
 <br> [![GitHub Streak](https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<br> ![Contribution Snake](https://github.com/DeviprasadShetty9833/DeviprasadShetty9833/blob/output/github-contribution-grid-snake.svg)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?DeviprasadShetty9833=DeviprasadShetty9833&theme=tokyonight)
+<br> 
 
 
