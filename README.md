@@ -68,7 +68,7 @@
 
 <br> ### My GitHub Activity
 
-![GitHub Activity](https://github.com/omidnikrah/profile-activity-generator/blob/master/images/profile-activity.svg?raw=true)
+![GitHub Activity](https://github.com/DeviprasadShetty9833/profile-activity-generator/blob/master/images/profile-activity.svg?raw=true)
 <br> 
 
 
