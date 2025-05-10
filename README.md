@@ -66,9 +66,8 @@
 
 <br> [![GitHub Streak](https://streak-stats.demolab.com?user=DeviprasadShetty9833&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-<br> ### My GitHub Activity
-
-![GitHub Activity](https://github.com/DeviprasadShetty9833/profile-activity-generator/blob/master/images/profile-activity.svg?raw=true)
 <br> 
+
+
 
 
