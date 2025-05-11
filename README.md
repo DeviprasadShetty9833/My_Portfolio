@@ -51,7 +51,7 @@
 
 **● Libraries**
 
-| ![Regex](https://img.shields.io/badge/Regex-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Tkinter](https://img.shields.io/badge/Tkinter-34A853?style=for-the-badge&logo=Tkinter&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | Matplotlib |
+| ![Regex](https://img.shields.io/badge/Regex-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Tkinter](https://img.shields.io/badge/Tkinter-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=Matplotlib&logoColor=white) |
 |---|---|---|---|---|
 
 
