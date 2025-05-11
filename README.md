@@ -51,7 +51,7 @@
 
 **● Libraries**
 
-| ![RegEx](https://img.shields.io/badge/RegEx-34A853?style=for-the-badge&logo=.*&logoColor=white) | Tkinter | Numpy | Pandas | Matplotlib |
+| ![RegEx](https://img.shields.io/badge/RegEx-34A853?style=for-the-badge&logo=(.*)&logoColor=white) | Tkinter | Numpy | Pandas | Matplotlib |
 |---|---|---|---|---|
 
 ![Tkinter](https://img.shields.io/badge/Tkinter-34A853?style=for-the-badge&logo=python&logoColor=white)
