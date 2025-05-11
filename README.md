@@ -37,8 +37,8 @@
 |   |  |
 
 > **Status**:  
-> - ![status](https://img.shields.io/badge/status-in%20progress-yellow) : `Library Management System`
-> - ![status](https://img.shields.io/badge/status-upcoming-blue) : `The Conquerer`, `Golden Fields Restaurant`
+> - ![status](https://img.shields.io/badge/status-in%20progress-green) : `Library Management System`
+> - ![status](https://img.shields.io/badge/status-upcoming-yellow) : `The Conquerer`, `Golden Fields Restaurant`
 
 
 
