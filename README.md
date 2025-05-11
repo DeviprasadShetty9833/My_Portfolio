@@ -28,19 +28,19 @@
 
 |   |   |
 |---|---|
-| 6] | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
-| 5] | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
-| 4] | [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System) |
-| 3] | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
-| 2] | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
-| 1] | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
+| 6. | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
+| 5. | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
+| 4. | [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System) |
+| 3. | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
+| 2. | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
+| 1. | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
 |   |  |
 
 > **Status**:  
 > - ![status](https://img.shields.io/badge/status-in%20progress-green) : `Library Management System`
 > - ![status](https://img.shields.io/badge/status-upcoming-yellow) : `The Conquerer`, `Golden Fields Restaurant`
 
-![4](https://img.shields.io/badge/4-34A853?style=for-the-badge&logo=&logoColor=white)
+![4.](https://img.shields.io/badge/4.-34A853?style=for-the-badge&logo=&logoColor=white)
 
 # 💻 Tech Stack:
 
