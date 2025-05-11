@@ -26,15 +26,15 @@
 
 # 👨‍💻 Projects:
 
-|   |
-|---|
-| [![The_Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer) |
-| [![Golden_Fields_Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
-| [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System) |
-| [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
-| [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
-| [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
-|  |
+|   |   |
+|---|---|
+|   | [![The_Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer) |
+|   | [![Golden_Fields_Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
+|   | [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System) |
+|   | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
+|   | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
+|   | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
+|   |  |
 
 
 # 💻 Tech Stack:
