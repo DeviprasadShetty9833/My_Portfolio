@@ -1,6 +1,8 @@
 # My_Portfolio
 
-<br> Author: [![Deviprasad Shetty](https://img.shields.io/badge/Deviprasad%20Shetty-000000?style=for-the-badge&logo=d&logoColor=white)](https://yourwebsite.com/)
+![status](https://img.shields.io/badge/status-upcoming-yellow) 
+
+<br> Author: [![Deviprasad Shetty](https://img.shields.io/badge/Author-Deviprasad%20Shetty-000000?style=for-the-badge&logo=d&logoColor=white)](https://yourwebsite.com/)
 
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/59e75c541bbfd8adb4f98847cca0405ca90d6725/assets/Dev.png)
 <br> 
