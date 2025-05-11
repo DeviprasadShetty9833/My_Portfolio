@@ -61,6 +61,7 @@
 
 ![VS Code](https://img.shields.io/badge/VS%20Code-Yellow?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=F7DF1E)
 
+![VS Code](https://img.shields.io/badge/VS%20Code-LightBlue?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=4FC3F7)
 <br> 
 
 
