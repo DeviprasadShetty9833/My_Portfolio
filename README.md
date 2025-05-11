@@ -39,7 +39,9 @@
 > **Legend**:  
 > - **Status**: `Planned`, `Pending`, `In Progress`, `Completed`  
 > - **Priority**: `Low`, `Medium`, `High`, `Critical`
-> - 
+
+![status](https://img.shields.io/badge/status-in%20progress-yellow)
+![status](https://img.shields.io/badge/status-upcoming-blue)
 
 **Currently working on:**  [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System)
 
