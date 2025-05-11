@@ -36,9 +36,9 @@
 | ![1.](https://img.shields.io/badge/1.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
 |   |  |
 
-> **Status**:  
-> - ![status](https://img.shields.io/badge/status-in%20progress-green)
+> **Status**:
 > - ![status](https://img.shields.io/badge/status-upcoming-yellow) 
+> - ![status](https://img.shields.io/badge/status-in%20progress-green)
 > - ![status](https://img.shields.io/badge/status-completed-black)
 
 
