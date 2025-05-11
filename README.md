@@ -36,6 +36,11 @@
 | 1] | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
 |   |  |
 
+> **Legend**:  
+> - **Status**: `Planned`, `Pending`, `In Progress`, `Completed`  
+> - **Priority**: `Low`, `Medium`, `High`, `Critical`
+> - 
+
 **Currently working on:**  [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System)
 
 
