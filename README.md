@@ -42,10 +42,6 @@
 
 
 
-
-**Currently working on:**  [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System)
-
-
 # 💻 Tech Stack:
 
 **● Programming Languages**
