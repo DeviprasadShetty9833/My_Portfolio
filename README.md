@@ -40,24 +40,7 @@
 > - ![status](https://img.shields.io/badge/status-in%20progress-green) : `Library Management System`
 > - ![status](https://img.shields.io/badge/status-upcoming-yellow) : `The Conquerer`, `Golden Fields Restaurant`
 
-<table>
-  <tr>
-    <th>Language</th>
-    <th>Level</th>
-  </tr>
-  <tr>
-    <td style="background-color: #fdfd96;">C</td>
-    <td>Intermediate</td>
-  </tr>
-  <tr>
-    <td style="background-color: #add8e6;">C++</td>
-    <td>Intermediate</td>
-  </tr>
-  <tr>
-    <td style="background-color: #a0d911;">Python</td>
-    <td>Advanced</td>
-  </tr>
-</table>
+
 
 # 💻 Tech Stack:
 
