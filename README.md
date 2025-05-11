@@ -51,10 +51,10 @@
 
 **● Libraries**
 
-| Regex | Tkinter | Numpy | Pandas | Matplotlib |
+| ![Regex](https://img.shields.io/badge/Regex-34A853?style=for-the-badge&logo=python&logoColor=white) | Tkinter | Numpy | Pandas | Matplotlib |
 |---|---|---|---|---|
 
-![Regex](https://img.shields.io/badge/Regex-34A853?style=for-the-badge&logo=python&logoColor=white)
+![Tkinter](https://img.shields.io/badge/Tkinter-34A853?style=for-the-badge&logo=python&logoColor=white)
 
 **● Web Development**
 
