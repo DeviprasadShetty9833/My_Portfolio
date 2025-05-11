@@ -13,6 +13,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 # 🌐 Socials:
 
