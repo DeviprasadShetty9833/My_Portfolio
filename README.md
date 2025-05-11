@@ -54,6 +54,8 @@
 | Regex | Tkinter | Numpy | Pandas | Matplotlib |
 |---|---|---|---|---|
 
+![Regex](https://img.shields.io/badge/Regex-34A853?style=for-the-badge&logo=python&logoColor=white)
+
 **● Web Development**
 
 | Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   |   |       |   |
