@@ -70,7 +70,7 @@
 
 **● Tools & Platforms**
 
-| ![VS Code](https://img.shields.io/badge/VS%20Code-Yellow?style=for-the-badge&logo=https://github.com/DeviprasadShetty9833/My_Portfolio/blob/502dd85faac0661e43b42b305a7b918bd215d23f/assets/visual_studio_code.png&logoColor=white&color=F7DF1E) |   |   |   |   |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-Yellow?style=for-the-badge&logo=visual_studio_code.png&logoColor=white&color=F7DF1E) |   |   |   |   |
 |---|---|---|---|---|
 
 
