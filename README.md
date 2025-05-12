@@ -101,11 +101,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true&theme=tokyonight)
 
----
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=github-compact)
 <br> 
