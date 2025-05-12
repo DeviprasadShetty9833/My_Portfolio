@@ -13,7 +13,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
-![quote:](https://img.shields.io/badge/quote:-People who smile while they are alone used to be called insane until we invented smartphones and social media. Mokokoma Mokhonoana-black)
+![quote:](https://img.shields.io/badge/quote:-People-black)
 
 
 
