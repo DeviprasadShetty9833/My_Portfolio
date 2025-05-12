@@ -76,7 +76,7 @@
 
 **● Tools & Platforms**
 
-| ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=F7DF1E) |   |   |   |   |
+| ![VS Code](https://img.shields.io/badge/VS%20Code-yellow?style=for-the-badge&logo=visualstudiocode&logoColor=white&color=F7DF1E) |   |   |   |   |
 |---|---|---|---|---|
 
 
