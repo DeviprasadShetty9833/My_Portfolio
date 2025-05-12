@@ -13,7 +13,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
-[quote:](https://img.shields.io/badge/quote:-People)
+![quote:](https://img.shields.io/badge/quote:-People)
 
 
 <!-- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
