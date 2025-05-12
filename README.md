@@ -35,11 +35,11 @@
 
 # 👨‍💻 Projects:
 
-<details>
-  <summary>Click to expand</summary>
 
 |   |   |
 |---|---|
+| <details>
+  <summary>Click to expand</summary> |
 | ![6.](https://img.shields.io/badge/6.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
 | ![5.](https://img.shields.io/badge/5.-yellow?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
 | ![4.](https://img.shields.io/badge/4.-green?style=for-the-badge&logo=&logoColor=white) | [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System) |
