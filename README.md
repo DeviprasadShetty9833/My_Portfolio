@@ -13,7 +13,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
-![quote:](https://img.shields.io/badge/quote:-People-black)
+![quote:](https://img.shields.io/badge/quote:-People_who_smile_while_they_are_alone_used_to_be_called_insane-black)
 
 
 
