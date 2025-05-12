@@ -13,8 +13,8 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
-
-> "People who smile while they are alone used to be called insane until we invented smartphones and social media.” 
+> **Status**:
+> - "People who smile while they are alone used to be called insane until we invented smartphones and social media.” 
 > — "Mokokoma Mokhonoana"
 
 <!-- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
