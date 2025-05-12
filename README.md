@@ -46,12 +46,10 @@
 |---|---|
 | ![6.](https://img.shields.io/badge/6.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
 | ![5.](https://img.shields.io/badge/5.-yellow?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
-| <details><summary>Click to expand</summary> |
 | ![4.](https://img.shields.io/badge/4.-green?style=for-the-badge&logo=&logoColor=white) | [![Library Management System](https://img.shields.io/badge/Library_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Library_Management_System) |
 | ![3.](https://img.shields.io/badge/3.-black?style=for-the-badge&logo=&logoColor=white) | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
 | ![2.](https://img.shields.io/badge/2.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
 | ![1.](https://img.shields.io/badge/1.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
-| </details> |
 |   |  |
 
 > **Status**:
