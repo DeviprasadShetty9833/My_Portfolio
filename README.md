@@ -6,6 +6,13 @@
 
 <br> 
 
+### 🚀 Projects
+
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Golden Fields Restaurant](#) | Restaurant management system | C |
+| [The Conqueror](#) | Game project | C++ |
+
 
 # 👨‍🎓 About:
 
