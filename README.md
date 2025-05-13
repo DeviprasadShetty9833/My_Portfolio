@@ -6,6 +6,8 @@
 
 <br> 
 
+<img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,vscode,numpy,pandas,matplotlib" />
+
 
 # 👨‍🎓 About:
 
