@@ -6,7 +6,7 @@
 
 <br> 
 
-![Skills Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=donut&theme=tokyonight)
+![Skills Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=donut&theme=tokyonight)
 
 
 # 👨‍🎓 About:
