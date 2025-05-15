@@ -1,6 +1,7 @@
 # My_Portfolio
+# My_Portfolio
  
-<br> [![Author:](https://img.shields.io/badge/Author:-Deviprasad%20Shetty-000000?style=for-the-badge&Color=white)](https://yourwebsite.com/) 
+<br> [![Author:](https://img.shields.io/badprasad%20Shetty-000000?style=for-the-badge&Color=white)](https://yourwebsite.com/) 
 
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/59e75c541bbfd8adb4f98847cca0405ca90d6725/assets/Dev.png)
 
@@ -54,8 +55,7 @@
 
 > **Status**:
 > - ![status](https://img.shields.io/badge/status-upcoming-yellow) 
-> - ![status](https://img.shields.io/badge/status-in%20progress-green)
-> - ![status](https://img.shields.io/badge/status-completed-black)
+> - ![status](https://img.shields.io/badge/p-langs/?username=DeviprasadShetty9833&layout=compact&theme=fireflyg.shields.io/badge/status-completed-black)
 
 
 # 💻 Tech Stack:
@@ -90,7 +90,7 @@
 |---|---|---|---|---|
 
 
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=firefly)
+<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 
 
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programmer;C%2B%2B+Enthusiast;Python+Developer;DSA+Ninja+in+C;Problem+Solver;Code.+Debug.+Repeat.)
