@@ -54,7 +54,7 @@
 
 > **Status**:
 > - ![status](https://img.shields.io/badge/status-upcoming-yellow)
-> - ![status](https://img.shields.io/badge/status-in--progress-brightgreen)
+> - ![status](https://img.shields.io/badge/status-in--progress-green)
 > - ![status](https://img.shields.io/badge/status-completed-black)
 
 
