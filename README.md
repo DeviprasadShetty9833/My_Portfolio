@@ -1,11 +1,12 @@
 # My_Portfolio
 
+<p align="center">
 <br> [![Author:](https://img.shields.io/badge/Author:-Deviprasad%20Shetty-000000?style=for-the-badge&Color=white)](https://yourwebsite.com/) 
 
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/59e75c541bbfd8adb4f98847cca0405ca90d6725/assets/Dev.png)
 
 <br> 
-
+</p>
 
 # 👨‍🎓 About:
 
