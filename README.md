@@ -7,7 +7,7 @@
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/59e75c541bbfd8adb4f98847cca0405ca90d6725/assets/Dev.png)
 
 <br> 
-<\p>
+</p>
 
 # 👨‍🎓 About:
 
