@@ -108,7 +108,8 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=firefly)](https://git.io/streak-stats)
+
 
 ---
 
