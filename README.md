@@ -105,6 +105,8 @@
 
 ---
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833\&rank_icon=percentile)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true&theme=tokyonight)
 
 ---
