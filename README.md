@@ -53,8 +53,9 @@
 |   |  |
 
 > **Status**:
-> - ![status](https://img.shields.io/badge/status-upcoming-yellow) 
-> - ![status](https://img.shields.io/badge/p-langs/?username=DeviprasadShetty9833&layout=compact&theme=fireflyg.shields.io/badge/status-completed-black)
+> - ![status](https://img.shields.io/badge/status-upcoming-yellow)
+> - ![status](https://img.shields.io/badge/status-in--progress-brightgreen)
+> - ![status](https://img.shields.io/badge/status-completed-black)
 
 
 # 💻 Tech Stack:
