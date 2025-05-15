@@ -57,6 +57,9 @@
 > - ![status](https://img.shields.io/badge/status-in--progress-green)
 > - ![status](https://img.shields.io/badge/status-completed-black)
 
+> [!NOTE]\
+> Click to view the project.
+
 
 # 💻 Tech Stack:
 
