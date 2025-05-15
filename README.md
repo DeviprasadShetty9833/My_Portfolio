@@ -58,7 +58,7 @@
 > - ![status](https://img.shields.io/badge/status-completed-black)
 
 > [!NOTE]\
-> Click to view the project.
+> Click to view the projects.
 
 
 # 💻 Tech Stack:
