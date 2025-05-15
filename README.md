@@ -1,5 +1,4 @@
 # My_Portfolio
-# My_Portfolio
  
 <br> [![Author:](https://img.shields.io/badprasad%20Shetty-000000?style=for-the-badge&Color=white)](https://yourwebsite.com/) 
 
@@ -92,6 +91,7 @@
 
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&bg_color=000000&title_color=FFA500&text_color=FFA500&icon_color=FFA500)
 
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programmer;C%2B%2B+Enthusiast;Python+Developer;DSA+Ninja+in+C;Problem+Solver;Code.+Debug.+Repeat.)
 <br> 
