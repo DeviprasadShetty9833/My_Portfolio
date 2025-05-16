@@ -101,16 +101,15 @@
 
 # 📊 GitHub Stats:
 
-
-![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
-
----
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
+
+---
+
+![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
 
 ---
 
