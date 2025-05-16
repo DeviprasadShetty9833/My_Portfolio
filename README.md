@@ -118,6 +118,6 @@
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
+![GitHub Contribution Graph](https://ghchart.rshah.org/008080/DeviprasadShetty9833)
 
 <br> 
