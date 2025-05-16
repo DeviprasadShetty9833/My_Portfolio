@@ -109,6 +109,10 @@
 
 ---
 
+![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
+
+---
+
 ![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
 
 ---
@@ -117,7 +121,5 @@
 <br> 
 
 ---
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
 
 <br> 
