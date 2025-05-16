@@ -28,6 +28,8 @@
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
 |---|---|---|
 
+![Status](https://img.shields.io/badge/status-active-brightgreen)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
@@ -126,6 +128,3 @@
 
 <br> 
 
-![Status](https://img.shields.io/badge/status-active-brightgreen)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=YourUsername.YourRepoName)
