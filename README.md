@@ -21,8 +21,6 @@
 > - "Computers are man's attempt at designing a cat: it does whatever it wants, whenever it wants, and rarely ever at the right time."
 > — **Robert A. Heinlein**
 
-<blockquote style="color:green;"><strong>Quote:</strong> The only limit is your imagination.</blockquote>
-
 <!-- ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 # 🌐 Socials:
