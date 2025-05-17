@@ -64,7 +64,8 @@
 
 # 💻 Tech Stack:
 
-
+<table>
+<tr><td>
 
 **● Programming Languages**
 
@@ -75,9 +76,6 @@
 
 | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) |  |
 |---|---|---|---|
-
-
-
 
 **● Web Development**
 
@@ -95,6 +93,8 @@
 | ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=black) |   |   |   |   |
 |---|---|---|---|---|
 
+</td></tr>
+</table>
 
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 
