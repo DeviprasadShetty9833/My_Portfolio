@@ -63,7 +63,7 @@
 
 # 📚 Useful Resources:
 
-| [![Python_Notes](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)]() |
+| [![Python_Tutorial](https://img.shields.io/badge/Python_Tutorial-34A853?style=for-the-badge&logo=python&logoColor=white)]() |
 |--|
 
 
