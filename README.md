@@ -25,7 +25,7 @@
 
 # 🌐 Socials:
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
+| [![LinkedIn](| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
 |---|---|---|
 
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
@@ -104,6 +104,9 @@
 
 # 📊 GitHub Stats:
 
+<table>
+<tr><td>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
@@ -124,6 +127,8 @@
 <br> 
 
 ---
+</td></tr>
+</table>
 
 <br> 
 
