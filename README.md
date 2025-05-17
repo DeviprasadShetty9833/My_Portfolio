@@ -61,6 +61,11 @@
 > [!NOTE]\
 > Above are the links to the projects. Click to view the projects.
 
+# 📚 Useful Resources:
+
+| ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) |
+|--|
+
 
 # 💻 Tech Stack:
 
