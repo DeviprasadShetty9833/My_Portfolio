@@ -137,12 +137,3 @@
 
 <br> 
 
-
-<div align="center">
-  <a href="https://go.copilotkit.ai/gh-linkedin" target="_blank">
-    <img src="https://github.com/user-attachments/assets/e33e7ebb-f5fc-4775-81b0-d5dd6865271a" alt="LI">
-  </a>
-  <a href="https://go.copilotkit.ai/gh-twitter" target="_blank">
-    <img src="https://github.com/user-attachments/assets/14e57c97-70ac-4f9a-88f5-67028107794f" alt="Discord">
-  </a>
-</div>
