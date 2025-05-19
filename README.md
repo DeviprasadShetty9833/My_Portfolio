@@ -84,19 +84,19 @@
 
 **● Web Development**
 
-| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   |   |       |   |
-|---|---|---|---|---|
+| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   |   |  
+|---|---|---|
 
-| Backend:  |   |   |   |   |
-|---|---|---|---|---|
+| Backend:  |   |   |
+|---|---|
 
-| Database: |   |   |   |   |
-|---|---|---|---|---|
+| Database: |   |   |
+|---|---|---|
 
 **● Tools & Platforms**
 
-| ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=black) |   |   |   |   |
-|---|---|---|---|---|
+| ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=black) |   |   |
+|---|---|---|
 
 </td></tr>
 </table>
