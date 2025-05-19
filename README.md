@@ -68,7 +68,7 @@
 
 **● Programming Languages**
 
-|  ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white)  |  ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white)   | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-954E99?style=for-the-badge&logo=visual-basic&logoColor=white) |  |
+| ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-954E99?style=for-the-badge&logo=visual-basic&logoColor=white) |  |
 |---|---|---|---|---|---|
 
 **● Libraries**
@@ -78,19 +78,19 @@
 
 **● Web Development**
 
-| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)   |   |  
+| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) |  |  
 |---|---|---|
 
-| Backend:  |   |   |
+| Backend:  |  |  |
 |---|---|---|
 
-| Database: |   |   |
+| Database: |  |  |
 |---|---|---|
 
 **● Tools & Platforms**
 
-| ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=black) |   |   |
-|---|---|---|
+| ![VS Code](https://img.shields.io/badge/VS%20Code-white?style=for-the-badge&logo=visualstudiocode&logoColor=black) |  |
+|---|---|
 
 </td></tr>
 </table>
