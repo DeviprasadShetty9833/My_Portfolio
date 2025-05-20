@@ -133,4 +133,4 @@
 
 
 # 🙋‍♂️ Support:
-If you  this project, give it a ⭐ (Top right of page) and share it with friends!
+If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share it with friends!
