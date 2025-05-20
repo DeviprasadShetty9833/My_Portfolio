@@ -130,4 +130,5 @@
 </table>
 
 <br> 
-
+# 🙋‍♂️ Support
+If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
