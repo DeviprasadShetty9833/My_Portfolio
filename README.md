@@ -134,3 +134,8 @@
 
 # 🙋‍♂️ Support:
 If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share it with friends!
+
+---
+
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) |
+|---|
