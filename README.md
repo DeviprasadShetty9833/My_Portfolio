@@ -33,34 +33,6 @@
 <br> 
 
 
-# 👨‍💻 Projects:
-
-<!-- <details>
-  <summary>Click to expand</summary>
-
-  Your hidden content goes here. You can add **text**, `code`, images, lists, and even other Markdown formatting.
-
-</details> -->
-   
-|   |   |
-|---|---|
-| ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/Arthasetu_Bank-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
-| ![6.](https://img.shields.io/badge/6.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
-| ![5.](https://img.shields.io/badge/5.-yellow?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
-| ![4.](https://img.shields.io/badge/4.-green?style=for-the-badge&logo=&logoColor=white) | [![Gyanjyoti Library](https://img.shields.io/badge/Gyanjyoti_Library-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Gyanjyoti_Library) |
-| ![3.](https://img.shields.io/badge/3.-black?style=for-the-badge&logo=&logoColor=white) | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
-| ![2.](https://img.shields.io/badge/2.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
-| ![1.](https://img.shields.io/badge/1.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
-|   |  |
-
-> 📈 **Status**:
-> - ![status](https://img.shields.io/badge/status-upcoming-yellow)
-> - ![status](https://img.shields.io/badge/status-in--progress-green)
-> - ![status](https://img.shields.io/badge/status-completed-black)
-
-> [!NOTE]\
-> Above are the links to the projects. Click to view the projects.
-
 # 💻 Tech Stack:
 
 <table>
@@ -99,6 +71,36 @@
 
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=C+Programmer;C%2B%2B+Enthusiast;Python+Developer;DSA+Ninja+in+C;Problem+Solver;Code.+Debug.+Repeat.)
 <br> 
+
+
+
+# 👨‍💻 Projects:
+
+<!-- <details>
+  <summary>Click to expand</summary>
+
+  Your hidden content goes here. You can add **text**, `code`, images, lists, and even other Markdown formatting.
+
+</details> -->
+   
+|   |   |
+|---|---|
+| ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/Arthasetu_Bank-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
+| ![6.](https://img.shields.io/badge/6.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
+| ![5.](https://img.shields.io/badge/5.-yellow?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
+| ![4.](https://img.shields.io/badge/4.-green?style=for-the-badge&logo=&logoColor=white) | [![Gyanjyoti Library](https://img.shields.io/badge/Gyanjyoti_Library-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Gyanjyoti_Library) |
+| ![3.](https://img.shields.io/badge/3.-black?style=for-the-badge&logo=&logoColor=white) | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
+| ![2.](https://img.shields.io/badge/2.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
+| ![1.](https://img.shields.io/badge/1.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
+|   |  |
+
+> 📈 **Status**:
+> - ![status](https://img.shields.io/badge/status-upcoming-yellow)
+> - ![status](https://img.shields.io/badge/status-in--progress-green)
+> - ![status](https://img.shields.io/badge/status-completed-black)
+
+> [!NOTE]\
+> Above are the links to the projects. Click to view the projects.
 
 
 # 📊 GitHub Stats:
