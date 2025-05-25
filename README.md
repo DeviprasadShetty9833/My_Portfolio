@@ -29,7 +29,6 @@
 |---|---|---|
 
 ![Yellow Badge](https://img.shields.io/badge/Status-Active-FFC107?style=flat-square&logo=github)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
