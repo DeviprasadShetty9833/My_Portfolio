@@ -32,10 +32,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=0e75b6&style=flat)
 <br> 
 
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DeviprasadShetty9833.DeviprasadShetty9833)
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DeviprasadShetty9833.DeviprasadShetty9833&left_color=black&right_color=FFD700)
-
 # 💻 Tech Stack:
 
 <table>
