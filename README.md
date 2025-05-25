@@ -28,8 +28,7 @@
 | [![LinkedIn](https://img.shields.io/badge/in-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
 |---|---|---|
 
-| ![Yellow Badge](https://img.shields.io/badge/Status-Active-FFC107?style=flat-square&logo=github) |
-![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=0e75b6&style=flat-square&logo=github) |
+| ![Yellow Badge](https://img.shields.io/badge/Status-Active-FFC107?style=flat-square&logo=github) |![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=0e75b6&style=flat-square&logo=github) |
 |---|---|
 
 # 💻 Tech Stack:
