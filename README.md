@@ -34,6 +34,8 @@
 
 ![Profile views](https://visitor-badge.laobi.icu/badge?page_id=DeviprasadShetty9833.DeviprasadShetty9833)
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=DeviprasadShetty9833.DeviprasadShetty9833&left_color=black&right_color=FFD700)
+
 # 💻 Tech Stack:
 
 <table>
