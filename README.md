@@ -10,6 +10,10 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> <b>What I Do</b>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark&hide_border=true" width="100%"/>
+</div>
+
 # 👨‍🎓 About:
 
 <br> Hi, 😃👋 I am [Deviprasad Shetty](), highly passionate for coding, learning and exploring new fields in Computer Science domain. 
