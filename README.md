@@ -130,7 +130,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=ocean-gradient)
 <br> 
 
 ---
