@@ -115,7 +115,7 @@
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/586AFF/DeviprasadShetty9833)
+![GitHub Contribution Graph](https://ghchart.rshah.org/2EA043/DeviprasadShetty9833)
 
 
 ---
