@@ -111,7 +111,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=ocean-gradient&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
 
 ![image](https://user-images.githubusercontent.com/20955511/233865269-81583e73-c9b6-4e4b-9475-bc130de1bfdd.png)
 
@@ -126,7 +126,7 @@
 
 ---
 
-![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=ocean-gradient)
+![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
 
 ---
 
