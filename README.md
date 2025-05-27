@@ -117,6 +117,9 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
 
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
