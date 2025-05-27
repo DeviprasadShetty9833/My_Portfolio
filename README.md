@@ -111,13 +111,7 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=8A2BE2)](https://git.io/streak-stats)
-
-![image](https://user-images.githubusercontent.com/20955511/233865269-81583e73-c9b6-4e4b-9475-bc130de1bfdd.png)
-
- ![image](https://github.com/user-attachments/assets/8c6108e1-f3a1-4653-9f68-08ed6dcfc498)
-
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
 
 ---
 
