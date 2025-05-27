@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14&height=100&section=header&animation=fadeIn&width="100%)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=header&animation=fadeIn&width="100%)
 
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Deviprasad%20Shetty&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=60&descAlign=50)
 -->
@@ -148,4 +148,4 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 | [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) |
 |---|
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn&width="100%)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=fadeIn&width="100%)
