@@ -122,18 +122,18 @@
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark&hide_border=true" width="100%"/>
-</div>
-
 ---
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=DeviprasadShetty9833&theme=onedark)
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark)
 <br> 
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
 ---
 </td></tr>
