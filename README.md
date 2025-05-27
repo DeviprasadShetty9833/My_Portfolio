@@ -70,10 +70,6 @@
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;DSA+Ninja+in+C;C+Programmer;C%2B%2B+Enthusiast;Problem+Solver;Code.+Debug.+Repeat.) 
 <br> 
 
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolPython+Developer;DSA+Ninja+in+C;C+Programmer;C%2B%2B+Enthusiast;Problem+Solver;Code.+Debug.+Repeat." alt="Typing SVG" /></a>
-  
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=1000&pause=2000&color=6A64F0&center=true&vCenter=true&width=600&lines=Python+Developer;DSA+Ninja+in+C;C+Programmer;C%2B%2B+Enthusiast;Problem+Solver;Code.+Debug.+Repeat." alt="Typing SVG" /></a>
-  
 
 
 # 👨‍💻 Projects:
