@@ -115,10 +115,8 @@
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
+![GitHub Contribution Graph](https://ghchart.rshah.org/blue/DeviprasadShetty9833)
 
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
