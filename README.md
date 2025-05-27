@@ -107,11 +107,11 @@
 <table>
 <tr><td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=reactdark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=reactdark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
 
 ---
 
