@@ -118,7 +118,7 @@
 title_color=58A6FF&text_color=C9D1D9&icon_color=2EA043&bg_color=0D1117
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF)](https://git.io/streak-stats)
 
 ---
 
