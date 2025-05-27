@@ -107,7 +107,7 @@
 <table>
 <tr><td>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=reactdark)
 
 ---
 
