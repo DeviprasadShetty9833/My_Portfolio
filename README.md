@@ -68,7 +68,7 @@
 
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=react&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&icon_color=2EA043)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=react&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF)
 
 
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;DSA+Ninja+in+C;C+Programmer;C%2B%2B+Enthusiast;Problem+Solver;Code.+Debug.+Repeat.) 
