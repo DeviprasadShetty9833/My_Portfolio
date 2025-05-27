@@ -63,7 +63,9 @@
 | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) |  |
 |---|---|
 
-https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg
+
+
+![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg&logoColor=black) 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code> 
 
