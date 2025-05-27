@@ -124,7 +124,7 @@
 
 ---
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=gruvbox)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=tokyo-night)
 <br> 
 
 ---
