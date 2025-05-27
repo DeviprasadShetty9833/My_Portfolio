@@ -10,9 +10,7 @@
 
 # <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> <b>What I Do</b>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark&hide_border=true" width="100%"/>
-</div>
+
 
 # 👨‍🎓 About:
 
@@ -123,6 +121,10 @@
 ---
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/8A2BE2/DeviprasadShetty9833)
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark&hide_border=true" width="100%"/>
+</div>
 
 ---
 
