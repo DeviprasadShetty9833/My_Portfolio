@@ -68,6 +68,9 @@
 
 <br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&theme=react&custom_title=My%20Languages&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2EA043)
+
+
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Python+Developer;DSA+Ninja+in+C;C+Programmer;C%2B%2B+Enthusiast;Problem+Solver;Code.+Debug.+Repeat.) 
 <br> 
 
@@ -119,9 +122,6 @@ title_color=58A6FF&text_color=C9D1D9&icon_color=2EA043&bg_color=0D1117
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DeviprasadShetty9833&theme=dark&hide_border=false&ring=FFA500&fire=FFA500&currStreakLabel=FFA500&sideNums=FFFFFF)](https://git.io/streak-stats)
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty@9833&theme=react&custom_title=My%20Languages&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=2EA043)
 
 ---
 
