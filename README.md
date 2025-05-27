@@ -110,7 +110,7 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=58A6FF&text_color=C9D1D9&icon_color=2EA043&bg_color=0D1117&border_color=30363D&border_radius=10)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=58A6FF&text_color=C9D1D9&icon_color=2EA043&bg_color=0D1117&border_color=FFFFFF)
 
 
 ---
