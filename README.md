@@ -148,4 +148,4 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 | [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) |
 |---|
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=100&section=footer&animation=fadeIn&width="100%)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=footer&animation=fadeIn&width="100%)
