@@ -108,10 +108,14 @@
 
 > [!NOTE]
 > Blue
-> [!TIP]	Green
-> [!WARNING]	Orange
-> [!IMPORTANT]	Red
-> [!CAUTION]	Yellow
+> [!TIP]
+> Green
+> [!WARNING]
+> Orange
+> [!IMPORTANT]
+> Red
+> [!CAUTION]
+> Yellow
 
 # 📊 GitHub Stats:
 
