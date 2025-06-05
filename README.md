@@ -106,11 +106,12 @@
 > [!NOTE]\
 > Above are the links to the projects. Click to view the projects.
 
-	> [!NOTE]	Blue
-	> [!TIP]	Green
-	> [!WARNING]	Orange
-	> [!IMPORTANT]	Red
-	> [!CAUTION]	Yellow
+> [!NOTE]
+> Blue
+> [!TIP]	Green
+> [!WARNING]	Orange
+> [!IMPORTANT]	Red
+> [!CAUTION]	Yellow
 
 # 📊 GitHub Stats:
 
