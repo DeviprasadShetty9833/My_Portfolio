@@ -103,7 +103,7 @@
 > - ![status](https://img.shields.io/badge/status-in--progress-green)
 > - ![status](https://img.shields.io/badge/status-completed-black)
 
-> [!NOTE]\
+> [!NOTE]
 > Above are the links to the projects. Click to view the projects.
 
 <!--
