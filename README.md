@@ -7,7 +7,7 @@
  
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
 
-<br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/881c7ca9b563bc4c5efc283c08fe63de0a178520/assets/Deva2.png)
+<br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/881c7ca9b563bc4c5efc283c08fe63de0a178520/assets/Dev.png)
 <br> 
 
 # 👨‍🎓 About:
