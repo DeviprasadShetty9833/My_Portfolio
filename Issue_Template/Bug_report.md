@@ -9,4 +9,6 @@ This table tracks bugs reported for the project. Please update it as bugs are re
 |  |
 | 1. | Bug | Description | ![Screenshot] | 1. Step1<br>2. Step2 | Outcome | Solution | @username | Status | Date |
 
-> **Note**: 1) To add a new bug, copy an existing row and modify the values. 2) Make sure to update the screenshot link and status.
+> [!NOTE] 1) To add a new bug, copy an existing row and modify the values. 2) Make sure to update the screenshot link and status.
+
+> **Note**:
