@@ -89,7 +89,7 @@
 |   |   |
 |---|---|
 | ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
-| ![6.](https://img.shields.io/badge/6.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Gyanjyoti Library](https://img.shields.io/badge/Gyanjyoti_Library-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)](https://github.com/DeviprasadShetty9833/Gyanjyoti_Library) |
+| ![6.](https://img.shields.io/badge/6.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Gyanjyoti Library](https://img.shields.io/badge/Gyanjyoti_Library-E34F26?style=for-the-badge&logo=JAVA&logoColor=white)](https://github.com/DeviprasadShetty9833/Gyanjyoti_Library) |
 | ![5.](https://img.shields.io/badge/5.-green?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/Arthasetu_Bank-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
 | ![4.](https://img.shields.io/badge/4.-green?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
 | ![3.](https://img.shields.io/badge/3.-black?style=for-the-badge&logo=&logoColor=white) | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
