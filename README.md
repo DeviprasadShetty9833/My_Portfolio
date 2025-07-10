@@ -88,6 +88,7 @@
    
 |   |   |
 |---|---|
+| ![Title](https://img.shields.io/badge/staatus-grey?style=for-the-badge&logo=&logoColor=white) | ![Title](https://img.shields.io/badge/Project_Links-black?style=for-the-badge&logo=&logoColor=white) | 
 | ![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
 | ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/Arthasetu_Bank-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
 | ![6.](https://img.shields.io/badge/6.-green?style=for-the-badge&logo=&logoColor=white) | [![My_Website](https://img.shields.io/badge/My_Website-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Website) |
