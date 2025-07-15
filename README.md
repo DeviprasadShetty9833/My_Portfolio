@@ -17,6 +17,9 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
+![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=java&logoColor=white) 
+[![Golden Fields Restaurant](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=Java&logoColor=white)](https://example.com)
+
 ---
 
 🪩 **Quotes**:
