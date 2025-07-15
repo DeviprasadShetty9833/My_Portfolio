@@ -18,7 +18,7 @@
 <br> 
 
 ![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=java&logoColor=white) 
-[![Golden Fields Restaurant](https://img.shields.io/badge/☕-Golden_Fields_Restaurant-CC5500?style=for-the-badge&logo=java&logoColor=white)](https://example.com)
+[![Golden Fields Restaurant](https://img.shields.io/badge/☕-Golden_Fields_Restaurant-E2725B?style=for-the-badge&logo=java&logoColor=white)](https://example.com)
 
 ---
 
