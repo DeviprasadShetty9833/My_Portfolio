@@ -92,8 +92,9 @@
 |   |   |
 |---|---|
 | Status | View Project Links |
-| ![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurants](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
-| ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/Arthasetu_Bank-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
+| ![9.](https://img.shields.io/badge/9.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurants](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
+| ![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Gyanjyoti Library](https://img.shields.io/badge/☕-Arthasetu_Bank-E2725B?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
+| ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/☕-Arthasetu_Bank-E2725B?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
 | ![6.](https://img.shields.io/badge/6.-green?style=for-the-badge&logo=&logoColor=white) | [![My_Website](https://img.shields.io/badge/My_Website-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Website) |
 | ![5.](https://img.shields.io/badge/5.-black?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/Battleship-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Battleship)  |
 | ![4.](https://img.shields.io/badge/4.-black?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
