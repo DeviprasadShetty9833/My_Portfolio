@@ -88,7 +88,7 @@
    
 |   |   |
 |---|---|
-| Status | View Project Links |
+| **Status** | **View Project Links** |
 | ![9.](https://img.shields.io/badge/9.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Golden Fields Restaurants](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) |
 | ![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Gyanjyoti Library](https://img.shields.io/badge/☕-Gyanjyoti_Library-E34F26?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/DeviprasadShetty9833/Gyanjyoti_Library) |
 | ![7.](https://img.shields.io/badge/7.-yellow?style=for-the-badge&logo=&logoColor=white) | [![Arthasetu Bank](https://img.shields.io/badge/☕-Arthasetu_Bank-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeviprasadShetty9833/Arthasetu_Bank)  |
