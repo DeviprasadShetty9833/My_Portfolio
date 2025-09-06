@@ -52,7 +52,7 @@
 
 **● Web Development**
 
-| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-E2725B?style=for-the-badge&logo=CSS3&logoColor=white)  |  
+| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white)  |  
 |---|---|---|
 
 | Backend:  |  |  |
