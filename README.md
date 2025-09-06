@@ -63,8 +63,8 @@
 
 **● Tools & Platforms**
 
-| ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) |  |
-|---|---|
+| ![Intellij](https://img.shields.io/badge/Intellij-purple?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) |  |
+|---|---|---|
 
 </td></tr>
 </table>
