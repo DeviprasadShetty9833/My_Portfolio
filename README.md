@@ -45,28 +45,28 @@
 
 **● Programming Languages**
 
-| ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-C71585?style=for-the-badge&logo=visual-basic&logoColor=white) |  |
+|  | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-C71585?style=for-the-badge&logo=visual-basic&logoColor=white) |
 |---|---|---|---|---|---|---|
 
 **● Libraries**
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) |  |
+|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) |
 |---|---|---|---|
 
 **● Web Development**
 
-| Frontend: | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |  |
+| Frontend: |  | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
 |---|---|---|---|
 
-| Backend:  |  ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |  |
+| Backend:  |  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
 |---|---|---|
 
-| Database: | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white)  |  |
+| Database: |  | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white) |
 |---|---|---|
 
 **● Tools & Platforms**
 
-| ![Intellij](https://img.shields.io/badge/Intellij-purple?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) |  |
+|  | ![Intellij](https://img.shields.io/badge/Intellij-purple?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) |
 |---|---|---|
 
 </td></tr>
