@@ -72,7 +72,7 @@
 </td></tr>
 </table>
 
-<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=react&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&icon_color=0077B5)
+<br> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeviprasadShetty9833&layout=compact&theme=react&bg_color=0D1117&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF)
 
 
 # 👨‍💻 Projects:
