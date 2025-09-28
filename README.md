@@ -58,10 +58,10 @@
 | Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white)  |  |
 |---|---|---|---|
 
-| Backend:  |  ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |  |  |
-|---|---|---|---|
+| Backend:  |  ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |  |
+|---|---|---|
 
-| Database: |  |  |
+| Database: | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white)  |  |
 |---|---|---|
 
 **● Tools & Platforms**
