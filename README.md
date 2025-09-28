@@ -50,12 +50,12 @@
 
 **● Libraries**
 
-| ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) |  |
+![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) |  |
 |---|---|---|---|
 
 **● Web Development**
 
-| Frontend: | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white)  |  |
+| Frontend: | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |  |
 |---|---|---|---|
 
 | Backend:  |  ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |  |
