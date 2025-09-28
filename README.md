@@ -139,7 +139,7 @@
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/AAAAFF/DeviprasadShetty9833)
+![GitHub Contribution Graph](https://ghchart.rshah.org/5555FF/DeviprasadShetty9833)
 
 
 ---
