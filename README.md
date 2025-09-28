@@ -131,7 +131,7 @@
 <tr><td>
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=FFA500&text_color=FFFFFF&icon_color=55C9F1&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
 
@@ -139,7 +139,7 @@
 
 ---
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/DeviprasadShetty9833)
+![GitHub Contribution Graph](https://ghchart.rshah.org/58A6FF/DeviprasadShetty9833)
 
 
 ---
