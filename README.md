@@ -17,7 +17,7 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
-<br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=lightblue&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+|+Python+Developer;DSA+Ninja+in+C+|+Problem+Solver;Engineering+IDEAS+into+Digital+REALITIES;Code.+Debug.+Repeat.) 
+<br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=orange&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+|+Python+Developer;DSA+Ninja+in+C+|+Problem+Solver;Engineering+IDEAS+into+Digital+REALITIES;Code.+Debug.+Repeat.) 
 <br> 
 
 ---
