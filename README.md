@@ -7,8 +7,12 @@
  
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/aa51d2ee0ba19c82ed003cb0f969b9e3cc58917f/assets/Dev1.png)
 <br> 
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 # 👨‍🎓 About:
 
@@ -17,12 +21,8 @@
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
 <br> 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <br> ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=1000&pause=2000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+|+Python+Developer;DSA+Ninja+in+C+|+Problem+Solver;Engineering+IDEAS+into+Digital+REALITIES;Code.+Debug.+Repeat.) 
 <br> 
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 🪩 **Quotes**:
 > - "People who smile while they are alone used to be called insane until we invented smartphones and social media.” 
