@@ -67,8 +67,8 @@
 
 **● Web Development**
 
-| Frontend: |  | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
-|---|---|---|---|
+| Frontend: |  | ![JS](https://img.shields.io/badge/JAVASCRIPT-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
+|---|---|---|---|---|
 
 | Backend:  |  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
 |---|---|---|
@@ -113,7 +113,7 @@
 | ![3.](https://img.shields.io/badge/3.-black?style=for-the-badge&logo=&logoColor=white) | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
 | ![2.](https://img.shields.io/badge/2.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
 | ![1.](https://img.shields.io/badge/1.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.c](https://img.shields.io/badge/Cube.c-00599C?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.c) |
-|   |  |
+|   |   |
 
 </table>
 </tr></td>
