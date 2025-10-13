@@ -148,7 +148,6 @@
 <table>
 <tr><td>
 
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
@@ -158,7 +157,6 @@
 ---
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/0077B5/DeviprasadShetty9833)
-
 
 ---
 
@@ -173,7 +171,6 @@
 </table>
 
 <br> 
-
 
 # 🙋‍♂️ Support:
 If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share it with friends!
