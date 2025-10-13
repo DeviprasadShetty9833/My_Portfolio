@@ -72,7 +72,7 @@
 
 **● Tools & Platforms**
 
-|  | ![Intellij](https://img.shields.io/badge/Intellij-purple?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-FCC624?style=for-the-badge&logo=ubuntu&logoColor=black) |
+|  | ![Intellij](https://img.shields.io/badge/Intellij-purple?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode&logoColor=black) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=black) |
 |---|---|---|---|
 
 </td></tr>
