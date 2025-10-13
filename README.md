@@ -56,6 +56,10 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white)
 ![VB6](https://img.shields.io/badge/Visual_Basic-512BD4?logo=windows&logoColor=white)
 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-FFFFFF?logo=linkedin&logoColor=0A66C2)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-8000FF?logo=intellijidea&logoColor=white)
+
 **● Programming Languages**
 
 |  | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-C71585?style=for-the-badge&logo=visual-basic&logoColor=white) |
