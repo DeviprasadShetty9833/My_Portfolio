@@ -49,6 +49,11 @@
 <table>
 <tr><td>
 
+![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=java&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VSCode-%23007ACC.svg?logo=visualstudiocode&logoColor=white)
+![VB6 Badge](https://img.shields.io/badge/VisualBasic-%23512BD4.svg?logo=visualstudio&logoColor=white)
+
 **● Programming Languages**
 
 |  | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-C71585?style=for-the-badge&logo=visual-basic&logoColor=white) |
