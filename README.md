@@ -47,8 +47,8 @@
 </table>
 </tr></td>
 
-| ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square&logo=github) | <img src="https://img.shields.io/github/followers/redmoon0x?style=social" alt="GitHub followers" /> | ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=blueviolet&style=flat-square&logo=github) |
-|---|---|---|
+| ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square&logo=github) | ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=blueviolet&style=flat-square&logo=github) |
+|---|---|
 
 # 💻 Tech Stack:
 
