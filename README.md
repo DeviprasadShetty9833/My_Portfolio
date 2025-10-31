@@ -130,7 +130,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ai-Chetan&repo=NexusGrid&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Ai-Chetan/NexusGrid)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nischay-loq&repo=The_Conquerer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Nischay-loq/DevOPs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nischay-loq&repo=The_Conquerer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/DeviprasadShetty9833/The_Conquerer)
 
 <!--
 > [!NOTE]
