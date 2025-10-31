@@ -126,6 +126,60 @@
 > [!NOTE]
 > Above are the links to the projects. Click to view the projects.
 
+## 🎯 Current Goals
+
+| 🎯 Goal | 📅 Timeline | 📈 Progress |
+|---------|-------------|-------------|
+| Master Spring Boot | Q1 2025 | ![Progress](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| Database Optimization Expertise | Q2 2025 | ![Progress](https://geps.dev/progress/60?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| Contribute to Open Source | Ongoing | ![Progress](https://geps.dev/progress/45?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+| Build Full-Stack Project | Q1 2025 | ![Progress](https://geps.dev/progress/80?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ai-Chetan&repo=NexusGrid&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Ai-Chetan/NexusGrid)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nischay-loq&repo=DevOPs&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Nischay-loq/DevOPs)
+
+</div>
+
+---
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
+  <img src="https://img.shields.io/badge/Spotify-Now%20Playing-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://i.scdn.co/image/ab67616d0000b273ac6f6a58c0abdc8bbcf73d0d" width="80"/></td>
+    <td>
+      <strong>🎵 Believer</strong><br/>
+      <em>by Imagine Dragons</em><br/>
+      <small>Album: Evolve</small>
+    </td>
+  </tr>
+</table>
+
+<a href="https://open.spotify.com/track/0pqnGHJpmpxLKifKRmU6WP">
+  <img src="https://img.shields.io/badge/▶️%20Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+
+
 <!--
 > [!NOTE]
 > Blue
