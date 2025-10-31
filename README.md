@@ -108,7 +108,7 @@
 | ![8.](https://img.shields.io/badge/8.-yellow?style=for-the-badge&logo=&logoColor=white) | [![SmartQ](https://img.shields.io/badge/SmartQ-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/SmartQ) |
 | ![7.](https://img.shields.io/badge/7.-green?style=for-the-badge&logo=&logoColor=white) | [![AQI & NPI Monitoring Dashboard](https://img.shields.io/badge/AQI_&_NPI_Monitoring_Dashboard-34c952?style=for-the-badge&logo=springboot&logoColor=white)](https://github.com/DeviprasadShetty9833/AQI_and_NPI_Monitoring_Dashboard) |
 | ![6.](https://img.shields.io/badge/6.-green?style=for-the-badge&logo=&logoColor=white) | [![My_Website](https://img.shields.io/badge/My_Website-E2725B?style=for-the-badge&logo=Html5&logoColor=white)](https://github.com/DeviprasadShetty9833/My_Website) |
-| ![5.](https://img.shields.io/badge/5.-black?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/Battleship-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Battleship)  |
+| ![5.](https://img.shields.io/badge/5.-black?style=for-the-badge&logo=&logoColor=white) | [![Battleship](https://img.shields.io/badge/Battleship-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Battleship)  |
 | ![4.](https://img.shields.io/badge/4.-black?style=for-the-badge&logo=&logoColor=white) | [![The Conquerer](https://img.shields.io/badge/The_Conquerer-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/The_Conquerer)  |
 | ![3.](https://img.shields.io/badge/3.-black?style=for-the-badge&logo=&logoColor=white) | [![Contact Management System](https://img.shields.io/badge/Contact_Management_System-000080?style=for-the-badge&logo=c&logoColor=white)](https://github.com/DeviprasadShetty9833/Contact_Management_System) |
 | ![2.](https://img.shields.io/badge/2.-black?style=for-the-badge&logo=&logoColor=white) | [![Cube.py](https://img.shields.io/badge/Cube.py-34A853?style=for-the-badge&logo=python&logoColor=white)](https://github.com/DeviprasadShetty9833/Cube.py) |
@@ -130,7 +130,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Ai-Chetan&repo=NexusGrid&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Ai-Chetan/NexusGrid)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nischay-loq&repo=DevOPs&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Nischay-loq/DevOPs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nischay-loq&repo=The_Conquerer&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)](https://github.com/Nischay-loq/DevOPs)
 
 <!--
 > [!NOTE]
