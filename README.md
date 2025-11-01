@@ -104,7 +104,7 @@
 <table>
 <tr><td>
 
- 🌟 [!Featured Projects]
+> 🌟 [!Featured Projects]
 
 | 1️⃣ | 2️⃣ |
 |---|---|
