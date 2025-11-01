@@ -50,7 +50,7 @@
 <table>
 <tr><td>
 
-| ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github&logoColor=white) | ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge&logo=github&logoColor=white) | [![GitHub followers](https://img.shields.io/github/followers/DeviprasadShetty9833?label=Followers&style=for-the-badge&color=blue&logo=github&logoColor=white)](https://github.com/DeviprasadShetty9833) |
+| ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github&logoColor=white) | ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge) | ![GitHub followers](https://img.shields.io/github/followers/DeviprasadShetty9833?label=Followers&style=for-the-badge&color=blue)|
 |---|---|---|
 
 </table>
