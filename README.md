@@ -123,11 +123,6 @@
 </table>
 </tr></td>
 
-> 📈 **Status**:
-> - ![status](https://img.shields.io/badge/status-upcoming-yellow)
-> - ![status](https://img.shields.io/badge/status-in--progress-green)
-> - ![status](https://img.shields.io/badge/status-completed-black)
-
 > [!NOTE]
 > Above are the links to the projects. Click to view the projects.
 
