@@ -47,13 +47,15 @@
 </table>
 </tr></td>
 
-| ![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square&logo=github) | ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20views&color=blueviolet&style=flat-square&logo=github) |
-|---|---|
+<table>
+<tr><td>
 
-
+![Status](https://img.shields.io/badge/Status-Active-green?style=flat-square&logo=github) 
 ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 [![GitHub followers](https://img.shields.io/github/followers/DeviprasadShetty9833?label=Followers&style=for-the-badge&color=blue)](https://github.com/DeviprasadShetty9833)
 
+</table>
+</tr></td>
 
 # 💻 Tech Stack:
 
