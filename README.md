@@ -51,8 +51,8 @@
 |---|---|
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=ParthShikhare19&label=Profile%20Views&color=brightgreen&style=for-the-badge)
-[![GitHub followers](https://img.shields.io/github/followers/ParthShikhare19?label=Followers&style=for-the-badge&color=blue)](https://github.com/ParthShikhare19)
+![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/DeviprasadShetty9833?label=Followers&style=for-the-badge&color=blue)](https://github.com/DeviprasadShetty9833)
 
 
 # 💻 Tech Stack:
