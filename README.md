@@ -56,8 +56,6 @@
 </table>
 </tr></td>
 
-| ![GitHub followers](https://img.shields.io/github/status/DeviprasadShetty9833?label=status&style=for-the-badge&color=blue)|
-
 # 💻 Tech Stack:
 
 <table>
