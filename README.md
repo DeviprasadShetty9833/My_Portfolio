@@ -4,6 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=header&animation=fadeIn&width="100%)
 
+</div>
 
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Deviprasad%20Shetty&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=60&descAlign=50)
 -->
@@ -165,6 +166,8 @@
 <table>
 <tr><td>
 
+<div align="center">
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
@@ -184,6 +187,8 @@
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark)
 <br> 
 
+</div>
+
 </td></tr>
 </table>
 
@@ -197,7 +202,7 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 | [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) | [![Website](https://img.shields.io/badge/Back_to-Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  [![LinkedIn](https://img.shields.io/badge/Back_to-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) |
 |---|---|---|
 
-
+<div align="center">
  
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=footer&animation=fadeIn&width="100%)
 
