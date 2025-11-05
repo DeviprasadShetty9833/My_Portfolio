@@ -166,8 +166,6 @@
 <table>
 <tr><td>
 
-<div align="center">
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeviprasadShetty9833&title_color=FFA500&text_color=FFFFFF&icon_color=58A6FF&bg_color=0D1117&border_color=FFFFFF&show_icons=true\&rank_icon=percentile&theme=tokyonight)
 
 ---
@@ -186,8 +184,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=DeviprasadShetty9833&theme=react-dark)
 <br> 
-
-</div>
 
 </td></tr>
 </table>
