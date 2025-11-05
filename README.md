@@ -1,9 +1,9 @@
+# My_Portfolio
+
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=150&section=header&animation=fadeIn&width="100%)
 
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Deviprasad%20Shetty&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=60&descAlign=50)
 -->
-
-# My_Portfolio
  
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
 
