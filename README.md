@@ -84,10 +84,9 @@
 
 **● Tools & Platforms**
 
-|  | ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) |
-|---|---|---|---|
+|  | ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white) |
+|---|---|---|---|---|
 
- ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=git&logoColor=white) |
 
 </td></tr>
 </table>
