@@ -195,3 +195,7 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 |---|---|---|
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=4&height=150&section=footer&animation=fadeIn&width="100%)
+
+<footer>
+  <p>© 2025 My_Portfolio. Designed with ❤️ by Deviprasad Shetty</p>
+</footer>
