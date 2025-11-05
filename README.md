@@ -120,7 +120,7 @@
    
 |   |   |   |
 |---|---|---|
-| **No.** | 🔗 **View Project Links** | 📊 **Progress** |
+| **No.** | 🔗 **Project Links** | 📊 **Progress** |
 | 11. | [![Golden Fields Restaurants](https://img.shields.io/badge/Golden_Fields_Restaurant-FFC107?style=for-the-badge&logo=JavaScript&logoColor=white)](https://github.com/DeviprasadShetty9833/Golden_Fields_Restaurant) | ![Progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 10. | [![Gyanjyoti Library](https://img.shields.io/badge/☕-Gyanjyoti_Library-E34F26?style=for-the-badge&logo=Java&logoColor=white)](https://github.com/DeviprasadShetty9833/Gyanjyoti_Library) | ![Progress](https://geps.dev/progress/5?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
 | 9. | [![Invester_Ledger](https://img.shields.io/badge/☕-Invester_Ledger-E34F26?style=for-the-badge&logo=java&logoColor=white)](https://github.com/DeviprasadShetty9833/Invester_Ledger)  | ![Progress](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9500&successColor=3fb950) |
