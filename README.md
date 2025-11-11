@@ -32,7 +32,7 @@
 
 </div>
 
-🪩 **Quotes**:
+🪩 **Funny Quotes**:
 > - "People who smile while they are alone used to be called insane until we invented smartphones and social media.” 
 > — **Mokokoma Mokhonoana**
 > - "Computers are man's attempt at designing a cat: it does whatever it wants, whenever it wants, and rarely ever at the right time."
