@@ -60,10 +60,16 @@
 </table>
 </tr></td>
 
-# Coding Platforms
+# Coding Platforms:
+
+<table>
+<tr><td>
 
 | [![LeetCode](https://img.shields.io/badge/LeetCode-ff9500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deviprasad9833/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shettydeviprasa2) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@shettydeviprasad0102/) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deviprasad9833) |
 |---|---|---|---|
+
+</table>
+</tr></td>
 
 # 💻 Tech Stack:
 
