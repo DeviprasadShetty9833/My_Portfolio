@@ -9,7 +9,7 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Deviprasad%20Shetty&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=60&descAlign=50)
 -->
  
-<br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white)
+<br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge) 
 
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/aa51d2ee0ba19c82ed003cb0f969b9e3cc58917f/assets/Dev1.png)
 <br> 
@@ -47,15 +47,6 @@
 
 | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DShetty659580) | [![Instagram](https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deviprasad743/) | [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |  |                      
 |---|---|---|---|---|
-
-</table>
-</tr></td>
-
-<table>
-<tr><td>
-
-| ![Status](https://img.shields.io/badge/Status-Active-green?style=for-the-badge&logo=github&logoColor=white) | ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge) | ![GitHub followers](https://img.shields.io/github/followers/DeviprasadShetty9833?label=Followers&style=for-the-badge&color=blue)|
-|---|---|---|
 
 </table>
 </tr></td>
