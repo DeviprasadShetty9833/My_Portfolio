@@ -10,8 +10,11 @@
 <br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge) 
 
 <div align="center">
+ 
 👋 Hi, I'm
+
 <br> ![image alt](https://github.com/DeviprasadShetty9833/My_Portfolio/blob/aa51d2ee0ba19c82ed003cb0f969b9e3cc58917f/assets/Dev1.png)
+
 </div>
 
 # 👨‍🎓 About:
