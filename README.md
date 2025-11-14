@@ -54,7 +54,7 @@
 </table>
 </tr></td>
 
-# Coding Platforms:
+# Coding Profiles:
 
 <table>
 <tr><td>
