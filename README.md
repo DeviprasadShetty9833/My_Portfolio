@@ -97,9 +97,10 @@
  | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
 |---|---|
 
-![<img src="https://www.google.com/search?q=https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/lang/java.svg" alt="Java" style="vertical-align:top; margin:4px" width="50"> ](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 
+
+<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" style="vertical-align:top; margin:4px">
 
 
 </td></tr>
