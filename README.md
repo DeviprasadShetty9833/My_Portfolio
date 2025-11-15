@@ -99,6 +99,8 @@
 |---|---|---|---|---|
 
 
+</td></tr>
+</table>
 
 
 **● Programming Languages**
