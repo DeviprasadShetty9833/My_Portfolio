@@ -116,6 +116,9 @@
 
 ## 🌟 Featured Projects:
 
+<table>
+<tr><td>
+ 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=EcoGauge&theme=radical&hide_border=true&bg_color=1F212E&title_color=00D9FF&text_color=FFFFFF)](https://github.com/DeviprasadShetty9833/EcoGauge)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=The_Conquerer&theme=radical&hide_border=true&bg_color=1F212E&title_color=00D9FF&text_color=FFFFFF)](https://github.com/DeviprasadShetty9833/The_Conquerer) 
 
 
@@ -127,7 +130,8 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 
-
+</td></tr>
+</table>
 
 <table>
 <tr><td>
