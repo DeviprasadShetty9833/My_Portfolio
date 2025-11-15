@@ -122,7 +122,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=EcoGauge&theme=radical&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=FFA500&border_radius=10)](https://github.com/DeviprasadShetty9833/EcoGauge)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=The_Conquerer&theme=radical&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=FFA500&border_radius=10)](https://github.com/DeviprasadShetty9833/The_Conquerer) 
 
 <h4 align="center">
-  <a href="https://github.com/zumrudu-anka?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/DeviprasadShetty9833/My_Projects" title="Show more Projects">🔎 Show More 🔍</a>
 </h4>
 
 </td></tr>
