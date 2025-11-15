@@ -112,15 +112,22 @@
 
 </details> -->
 
-<table>
-<tr><td>
+
 
 ## 🌟 Featured Projects:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=EcoGauge&theme=radical&hide_border=true&bg_color=1F212E&title_color=00D9FF&text_color=FFFFFF)](https://github.com/DeviprasadShetty9833/EcoGauge)  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=The_Conquerer&theme=radical&hide_border=true&bg_color=1F212E&title_color=00D9FF&text_color=FFFFFF)](https://github.com/DeviprasadShetty9833/The_Conquerer) 
 
-</table>
-</tr></td>
+
+<br>
+<div width="100%" align="center">
+<a align="left" href="https://github.com/DeviprasadShetty9833/EcoGauge" title="EcoGauge"><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=EcoGauge&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=61dafb&border_radius=10"></a>
+
+<a align="right" href="https://github.com/DeviprasadShetty9833/The_Conquerer" title="The_Conquerer"><img align="left" height="200" src="https://github-readme-stats.vercel.app/api/pin/?username=DeviprasadShetty9833&repo=The_Conquerer&theme=radical&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&border_color=61dafb&border_radius=10"></a>
+</div>
+<br/><br/><br/><br/><br/><br/>
+
+
 
 <table>
 <tr><td>
