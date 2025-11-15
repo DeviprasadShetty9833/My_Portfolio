@@ -70,44 +70,6 @@
 <table>
 <tr><td>
 
-
-**● Programming Languages**
-
-|  | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-|---|---|---|---|---|---|---|
-
-**● Libraries**
-
-|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) |
-|---|---|---|---|
-
-**● Web Development**
-
-| Frontend: |  | ![JS](https://img.shields.io/badge/JAVASCRIPT-FFC107?style=for-the-badge&logo=JavaScript&logoColor=black) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
-|---|---|---|---|---|
-
-| Backend:  |  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34c952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
-|---|---|---|
-
-| Database: |  | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white) |
-|---|---|---|
-
-**● Tools & Platforms**
-
- | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
-|---|---|
-
-
-
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" style="vertical-align:top; margin:4px" width="50">
-
-
-</td></tr>
-</table>
-<table>
-<tr><td>
-
 **● Programming Languages**
 
 |  | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A853?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
