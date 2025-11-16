@@ -76,7 +76,7 @@
 
 **● Libraries**
 
-|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-34A853?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-34A853?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-34A853?style=for-the-badge&logo=Numpy&logoColor=white) |
+|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white) |
 |---|---|---|---|
 
 **● Web Development**
