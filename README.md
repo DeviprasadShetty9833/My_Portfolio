@@ -47,7 +47,7 @@
 <table>
 <tr><td>
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DShetty659580) | [![Instagram](https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deviprasad743/) | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dsqueries123@gmail.com)| [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |                     
+| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DShetty659580) | [![Instagram](https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deviprasad743/) | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsqueries123@gmail.com)| [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com/) |                     
 |---|---|---|---|---|
 
 </table>
