@@ -71,29 +71,29 @@
 
 **● Programming Languages**
 
-|  | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A8ab?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
-|---|---|---|---|---|---|---|
+| ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A8ab?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
+|---|---|---|---|---|---|
 
 **● Libraries**
 
-|  | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white) | ![PyGame](https://img.shields.io/badge/Pygame-347952?style=for-the-badge&logo=python&logoColor=white) |
-|---|---|---|---|---|
+| ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white) | ![PyGame](https://img.shields.io/badge/Pygame-347952?style=for-the-badge&logo=python&logoColor=white) |
+|---|---|---|---|
 
 **● Web Development**
 
-| Frontend: |  | ![JS](https://img.shields.io/badge/JAVASCRIPT-FFC107?style=for-the-badge&logo=JavaScript&logoColor=black) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
-|---|---|---|---|---|
+| Frontend: | ![JS](https://img.shields.io/badge/JAVASCRIPT-FFC107?style=for-the-badge&logo=JavaScript&logoColor=black) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
+|---|---|---|---|
 
-| Backend:  |  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34a952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
-|---|---|---|
+| Backend:  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34a952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
+|---|---|
 
-| Database: |  | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white) |
-|---|---|---|
+| Database: | ![My_SQL](https://img.shields.io/badge/My_SQL-00599C?style=for-the-badge&logo=mysql&logoColor=white) |
+|---|---|
 
 **● Tools & Platforms**
 
-|  | ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
-|---|---|---|---|---|
+| ![Intellij_IDEA](https://img.shields.io/badge/Intellij_IDEA-8000FF?style=for-the-badge&logo=intellijidea&logoColor=white) | ![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudio&logoColor=white) | ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=white) | ![UBUNTU](https://img.shields.io/badge/UBUNTU-E34F26?style=for-the-badge&logo=ubuntu&logoColor=white) | 
+|---|---|---|---|
 
 
 </td></tr>
