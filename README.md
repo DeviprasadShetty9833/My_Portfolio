@@ -47,7 +47,7 @@
 <table>
 <tr><td>
 
-| [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) | [![X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white)](https://x.com/DShetty659580) | [![Instagram](https://img.shields.io/badge/Instagram-C71585?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/deviprasad743/) | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsqueries123@gmail.com)| [![Website](https://img.shields.io/badge/Website-indigo?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com/) |                     
+| <a href="https://linkedin.com/in/deviprasad-shetty-4bba49313" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40px" /></a> | <a href="https://www.instagram.com/deviprasad743/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="Instagram" width="40px" /></a> | <a href="https://x.com/DShetty659580" target="_blank"><img src="IMG_20251119_094621.jpg" alt="Twitter" width="40px"></a> | <a href="mailto:dsqueries123@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="40px" /></a> | <a href="https://deviprasadshetty.com/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/841/841364.png" alt="Portfolio" width="40px" /></a>
 |---|---|---|---|---|
 
 </table>
@@ -58,8 +58,8 @@
 <table>
 <tr><td>
 
-| [![Codolio](https://img.shields.io/badge/🦉-Codolio-ffc200?style=for-the-badge&logo=codolio&logoColor=white)](https://codolio.com/profile/DeviprasadShetty9833/card) | [![LeetCode](https://img.shields.io/badge/LeetCode-ff9500?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Deviprasad9833/) | [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/shettydeviprasa2) | [![HackerEarth](https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth&logoColor=white)](https://www.hackerearth.com/@shettydeviprasad0102/) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/deviprasad9833) |
-|---|---|---|---|--|
+| <a href="https://codolio.com/profile/DeviprasadShetty9833/card" target="_blank"><img src="IMG_20251119_124210.jpg" alt="Codolio" width="40" /></a> | <a href="https://leetcode.com/u/Deviprasad9833/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" width="40" /></a> | <a href="https://www.hackerrank.com/profile/shettydeviprasa2" target="_blank"><img src="https://cdn.simpleicons.org/hackerrank/2EC866" width="40" alt="HackerRank"/></a> | <a href="https://www.hackerearth.com/@shettydeviprasad0102/" target="_blank"><img src="IMG_20251119_123551.jpg" width="40" alt="HackerEarth"/></a> | <a href="https://www.codechef.com/users/Deviprasad9833" target="_blank"><img src="185728318-0b976716-4f78-4a0a-a377-1643cc18a57e.png" width="40" alt="CodeChef"/></a> |
+|---|---|---|---|---|
 
 </table>
 </tr></td>
