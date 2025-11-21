@@ -181,7 +181,7 @@ If you like ❤️ this portfolio, give it a ⭐ (Top right of page) and share i
 
 ---
 
-| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) | [![Website](https://img.shields.io/badge/Back_to-Website-indigo?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com/) |  [![LinkedIn](https://img.shields.io/badge/Back_to-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) |
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#My_Portfolio) | [![Website](https://img.shields.io/badge/Back_to-Website-indigo?style=for-the-badge&logo=firefox&logoColor=white)]([https://yourwebsite.com/](https://deviprasadshetty.com/)) |  [![LinkedIn](https://img.shields.io/badge/Back_to-LinkedIn-%230077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/deviprasad-shetty-4bba49313) |
 |---|---|---|
 
 <div align="center">
