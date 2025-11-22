@@ -81,7 +81,7 @@
 
 **● Web Development**
 
-| Frontend: | ![JS](https://img.shields.io/badge/JAVASCRIPT-%23323330?style=for-the-badge&logo=JavaScript&logoColor=FFC107) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
+| Frontend: | ![JS](https://img.shields.io/badge/JAVASCRIPT-%23323330?style=for-the-badge&logo=JavaScript&logoColor=%23F7DF1E) | ![CSS](https://img.shields.io/badge/CSS-0000CD?style=for-the-badge&logo=CSS&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML5-E2725B?style=for-the-badge&logo=html5&logoColor=white) |
 |---|---|---|---|
 
 | Backend:  | ![Spring_Boot](https://img.shields.io/badge/Spring_Boot-34a952?style=for-the-badge&logo=SpringBoot&logoColor=white) |
