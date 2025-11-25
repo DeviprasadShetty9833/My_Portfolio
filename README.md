@@ -7,7 +7,7 @@
 <!-- ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Deviprasad%20Shetty&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Developer%20|%20Creator%20|%20Innovator&descAlignY=60&descAlign=50)
 -->
  
-<br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge) ![Codolio](https://img.shields.io/badge/🦉-Codolio_6th_Rank_in_College-ffc200?style=for-the-badge&logo=codolio&logoColor=white)
+<br> ![Author: Deviprasad Shetty](https://img.shields.io/badge/Author-💫_Deviprasad%20Shetty-000000?style=for-the-badge&labelColor=white) ![Profile Views](https://komarev.com/ghpvc/?username=DeviprasadShetty9833&label=Profile%20Views&color=brightgreen&style=for-the-badge)
 
 <div align="center">
  
