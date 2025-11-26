@@ -74,7 +74,7 @@
 | ![Java](https://img.shields.io/badge/☕-Java-E34F26?style=for-the-badge&logo=java&logoColor=white) | ![Python](https://img.shields.io/badge/Python-34A8ab?style=for-the-badge&logo=python&logoColor=white) | ![DSA in C](https://img.shields.io/badge/DSA%20in%20C-000080?style=for-the-badge&logo=c&logoColor=white) | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) | ![C++](https://img.shields.io/badge/C++-4B8BBE?style=for-the-badge&logo=c%2B%2B&logoColor=white) | ![VB6.0](https://img.shields.io/badge/VB6.0-0077B5?style=for-the-badge&logo=visualstudiocode&logoColor=white) |
 |---|---|---|---|---|---|
 
-**● Libraries**
+**● Data Science Tools**
 
 | ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=Pandas&logoColor=white) | ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Numpy&logoColor=white) | ![PyGame](https://img.shields.io/badge/Pygame-347952?style=for-the-badge&logo=python&logoColor=white) |
 |---|---|---|---|
