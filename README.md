@@ -132,7 +132,7 @@
 </table>
 
 > [!NOTE]
-> Above are the links 🔗 to the projects. Click to view the projects.
+> Above 👆 are the links 🔗 to the projects. Click to view the projects.
 
 <!--
 > [!NOTE]
